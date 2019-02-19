@@ -10,4 +10,5 @@
 *.pid
 *.swp
 *.swo
+*.lock
 node_modules
